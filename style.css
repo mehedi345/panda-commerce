@@ -1,0 +1,39 @@
+.container{
+    margin-bottom: 100px;
+}
+.banners{
+    background-color: #fceae8;
+}
+.ban-h1{
+    color:rgb(212, 28, 89);
+}
+.buy-now-btn{
+    background-color:rgb(212, 28, 89);
+    color:white;
+}
+.cat1, .cat2, .cat3{
+    padding:10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-color: yellow;
+}
+.cat2{
+    background-color: purple;
+}
+.cat3{
+    background-color: blue;
+}
+.catagories h1{
+    color:white;
+}
+.catagories img{
+    width:100px;
+}
+.card{
+    border:none;
+    box-shadow: 4px 4px 10px gray;
+}
+.contact{
+    background-color: #fceae8;
+}
